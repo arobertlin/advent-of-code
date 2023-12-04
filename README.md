@@ -4,4 +4,5 @@
 
 - :white_check_mark::white_check_mark: Day 1
 - :white_check_mark::white_check_mark: Day 2
-- :black_square_button::black_square_button: Day 3
+- :white_check_mark::white_check_mark: Day 3
+- :black_square_button::black_square_button: Day 4
