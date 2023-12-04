@@ -3,5 +3,5 @@
 # Advent of Code 2023
 
 - :white_check_mark::white_check_mark: Day 1
-- :black_square_button::black_square_button: Day 2
+- :white_check_mark::white_check_mark: Day 2
 - :black_square_button::black_square_button: Day 3
